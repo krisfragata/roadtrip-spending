@@ -2,6 +2,7 @@
 //output: total
 //declare a function that asks users for input
 function addInput(dollar){
+//declare a var to hold sum
 
 }
 
